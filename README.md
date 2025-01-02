@@ -66,5 +66,6 @@ End-to-end testing with sample data.
 Validate deployment on multiple browsers.
 
 # Live Demo
+This react-app is deployed using Vercel.com
 
-Deployed at: <live-url>
+Deployed at: <https://entnt-technical-assignment-u2w2.vercel.app/>
