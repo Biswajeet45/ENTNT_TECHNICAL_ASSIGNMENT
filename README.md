@@ -3,7 +3,7 @@ The Calendar Application is designed to help organizations maintain strong profe
 
 # Features
 
-Admin Module
+## Admin Module
 
 Company Management:
 
@@ -14,20 +14,6 @@ Fields include Name, Location, LinkedIn Profile, Emails, Phone Numbers, Comments
 Communication Method Management:
 
 Define and manage communication methods with fields like Name, Description, Sequence, and Mandatory Flag.
-
-Predefined methods include:
-
-LinkedIn Post
-
-LinkedIn Message
-
-Email
-
-Phone Call
-
-Other
-
-User Module
 
 Dashboard:
 
